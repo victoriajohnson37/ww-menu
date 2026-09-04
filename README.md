@@ -1,7 +1,7 @@
 # Wuthering Waves Multihack
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Maintenance](https://img.shields.io/badge/Maintained-2025-brightgreen)
+![Maintenance](https://img.shields.io/badge/Maintained-2026-brightgreen)
 ![Downloads](https://img.shields.io/badge/Downloads-WorldWide-lightgrey)
 
 
